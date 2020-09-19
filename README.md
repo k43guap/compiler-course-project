@@ -24,6 +24,13 @@
 8. Oberon-2: https://en.wikipedia.org/wiki/Oberon-2
 9. Ada/CS: https://ecommons.cornell.edu/handle/1813/7509
 10. C--: https://www2.cs.arizona.edu/~debray/Teaching/CSc453/DOCS/cminusminusspec.html
+11. µOCCAM: http://homepages.inf.ed.ac.uk/stark/ipp/manuals/moccam.pdf (Chapter 1, page 4)
+12. MLPolyR: https://people.cs.uchicago.edu/~blume/classes/spr2005/cmsc22620/docs/langspec.pdf (page 2)
+13. Decaf: https://parasol.tamu.edu/courses/decaf/students/decafOverview.pdf (page 3)
+14. TinyJava: http://cobweb.cs.uga.edu/~kochut/teaching/x570/tinyjava/tinyjava.html
+15. MiniJava: http://www.cambridge.org/resources/052182060X/MCIIJ2e/grammar.htm
+
+<!-- 16. MicroJava http://ir4pp1.etf.rs/Predavanja/mikrojava_ext.pdf (page 12) -->
 
 ## Выходной язык
 Python
